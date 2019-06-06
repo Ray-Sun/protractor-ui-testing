@@ -3,7 +3,7 @@
 
 Make sure you have a test environment
 
-1. install npm
+1. install nodejs & npm
 
 2. install protractor (maybe need sudo)
 
